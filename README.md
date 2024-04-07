@@ -1,16 +1,10 @@
-#  Set Game (Project 1) Read Me
+#  Set Game (iOS and SwiftUI)
 
-Things I did well:
+A simple little card game of set! Built iOS using Swift and SwiftUI.
 
-• Setup of Model and ViewModel
-• UI looks nice and is functional
-• Landing page
-• Overall cleanliness and efficiency of code
-• Good amount of comments
+Showcase:
 
-Things I did not do so well:
-
-• Some of the animations aren't very smooth
-• Bug that I mentioned in the rubric
-
-Note: Additional insights were left in the rubric where it asked about our experience.
+![Example Image](images/IMG_3454.PNG)
+![Example Image](images/IMG_3455.PNG)
+![Example Image](images/IMG_3456.PNG)
+![Example Image](images/IMG_3458.PNG)
