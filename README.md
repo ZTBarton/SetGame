@@ -1,6 +1,6 @@
 #  Set Game (iOS and SwiftUI)
 
-A simple little card game of set! Built iOS using Swift and SwiftUI.
+A simple little card game of set! Built iOS using Swift and SwiftUI, complete with animations.
 
 Showcase:
 
